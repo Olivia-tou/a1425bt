@@ -1,6 +1,6 @@
 # A1425bt
 
-TODO: Write a gem description
+A calculaton of age!
 
 ## Installation
 
@@ -20,12 +20,21 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Enter your birthday!
+An Example:
+Please enter your birthday!
+(Input the No. such as 1,10,1960.After the end of the inputting,please press the ENTERKEY!)
+Day:1
+Month:10
+Year:1960
+(The current age will be found!)
+Your birthday is:1960 Year 7 Month 8 Day
 
-## Contributing
+Current Time is:2014-11-02 21:58:07 +0000
 
-1. Fork it ( https://github.com/[my-github-username]/a1425bt/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create a new Pull Request
+Your current age is:54 Years 3 Months 24 Days
+
+##Gem information
+
+1. Git Hub ( https://github.com/Olivia-tou/a1425bt )
+2. Gem on RubyOrg (https://rubygems.org/gems/a1425bt)
