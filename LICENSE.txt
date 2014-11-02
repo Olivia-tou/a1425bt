@@ -1,4 +1,4 @@
-Copyright (c) 2014 Olivia-tou
+Copyright (c) 2014 佟必超
 
 MIT License
 
