@@ -21,13 +21,21 @@ Or install it yourself as:
 ## Usage
 
 Enter your birthday!
+
 An Example:
+
 Please enter your birthday!
+
 (Input the No. such as 1,10,1960.After the end of the inputting,please press the ENTERKEY!)
+
 Day:1
+
 Month:10
+
 Year:1960
+
 (The current age will be found!)
+
 Your birthday is:1960 Year 7 Month 8 Day
 
 Current Time is:2014-11-02 21:58:07 +0000
