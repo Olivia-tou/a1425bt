@@ -26,7 +26,7 @@ dy = now.year - y
 if dd < 0
    dd += 30
    dm -= 1
-   if dm < 0 then
+   if dm < 0 
       dm += 12
       dy -= 1
    end
